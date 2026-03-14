@@ -1,0 +1,501 @@
+Lead_ID,Lead_Source,Date_Created,First_Contact_Time,Response_Hours,Response_Bucket,Sales_Stage,Converted,Deal_Value,Month,Month_Num
+LD-0001,Social Media,23/11/2024,25/11/2024,54.2,24+ hrs,Sales Meeting,No,,Nov-24,11
+LD-0002,Paid Ads,17/01/2024,17/01/2024,5.5,4-24 hrs,Deal Closed,Yes,,Jan-24,1
+LD-0003,Website Form,22/04/2024,22/04/2024,8,4-24 hrs,Initial Contact,No,,Apr-24,4
+LD-0004,Email Marketing,21/06/2024,21/06/2024,9.9,4-24 hrs,Deal Closed,Yes,4270,Jun-24,6
+LD-0005,Website Form,04/03/2024,04/03/2024,14,4-24 hrs,Qualified Lead,No,,Mar-24,3
+LD-0006,Paid Ads,24/01/2024,24/01/2024,1.4,1-4 hrs,Proposal Sent,No,,Jan-24,1
+LD-0007,Website Form,24/03/2024,24/03/2024,0.8,0-1 hr,Deal Closed,Yes,5680,Mar-24,3
+LD-0008,Social Media,05/05/2024,05/05/2024,6.2,4-24 hrs,Qualified Lead,No,,May-24,5
+LD-0009,Email Marketing,27/04/2024,27/04/2024,1.2,1-4 hrs,Proposal Sent,No,,Apr-24,4
+LD-0010,Social Media,12/09/2024,12/09/2024,8.2,4-24 hrs,Deal Closed,Yes,1560,Sept-24,9
+LD-0011,Social Media,25/10/2024,26/10/2024,27.7,24+ hrs,Initial Contact,No,,Oct-24,10
+LD-0012,Website Form,14/12/2024,14/12/2024,3,1-4 hrs,Initial Contact,No,,Dec-24,12
+LD-0013,Email Marketing,28/02/2024,28/02/2024,0.4,0-1 hr,Qualified Lead,No,,Feb-24,2
+LD-0014,Email Marketing,14/05/2024,14/05/2024,1.5,1-4 hrs,Proposal Sent,No,,May-24,5
+LD-0015,Website Form,10/07/2024,10/07/2024,11.9,4-24 hrs,Qualified Lead,No,,Jul-24,7
+LD-0016,Referral,06/06/2024,06/06/2024,3.3,1-4 hrs,Deal Closed,Yes,3430,Jun-24,6
+LD-0017,Paid Ads,29/09/2024,29/09/2024,3.5,1-4 hrs,Initial Contact,No,,Sept-24,9
+LD-0018,Website Form,03/10/2024,03/10/2024,2.7,1-4 hrs,Sales Meeting,No,,Oct-24,10
+LD-0019,Website Form,06/05/2024,06/05/2024,9.6,4-24 hrs,Deal Closed,Yes,4130,May-24,5
+LD-0020,Website Form,27/04/2024,27/04/2024,4.3,4-24 hrs,Deal Closed,Yes,5570,Apr-24,4
+LD-0021,Email Marketing,19/10/2024,19/10/2024,1.6,1-4 hrs,Initial Contact,No,,Oct-24,10
+LD-0022,Referral,28/01/2024,28/01/2024,3,1-4 hrs,Deal Closed,Yes,1520,Jan-24,1
+LD-0023,Referral,17/08/2024,17/08/2024,4.5,4-24 hrs,Deal Closed,Yes,7650,Aug-24,8
+LD-0024,Website Form,20/02/2024,20/02/2024,0.9,0-1 hr,Deal Closed,Yes,5450,Feb-24,2
+LD-0025,Website Form,05/09/2024,05/09/2024,1.6,1-4 hrs,Proposal Sent,No,,Sept-24,9
+LD-0026,Social Media,26/05/2024,26/05/2024,5.7,4-24 hrs,Deal Closed,Yes,3730,May-24,5
+LD-0027,Social Media,23/10/2024,23/10/2024,14.1,4-24 hrs,Initial Contact,No,,Oct-24,10
+LD-0028,Website Form,17/09/2024,17/09/2024,6.5,4-24 hrs,Deal Closed,Yes,9270,Sept-24,9
+LD-0029,Website Form,06/05/2024,06/05/2024,17.3,4-24 hrs,Initial Contact,No,,May-24,5
+LD-0030,Paid Ads,09/06/2024,09/06/2024,1.3,1-4 hrs,Qualified Lead,No,,Jun-24,6
+LD-0031,Website Form,15/10/2024,15/10/2024,6.8,4-24 hrs,Initial Contact,No,,Oct-24,10
+LD-0032,Paid Ads,21/03/2024,21/03/2024,7.8,4-24 hrs,Qualified Lead,No,,Mar-24,3
+LD-0033,Paid Ads,05/12/2024,05/12/2024,0.5,0-1 hr,Deal Closed,Yes,2970,Dec-24,12
+LD-0034,Paid Ads,17/04/2024,17/04/2024,5.9,4-24 hrs,Initial Contact,No,,Apr-24,4
+LD-0035,Social Media,04/08/2024,04/08/2024,1.2,1-4 hrs,Initial Contact,No,,Aug-24,8
+LD-0036,Social Media,14/10/2024,14/10/2024,7.1,4-24 hrs,Deal Closed,Yes,4080,Oct-24,10
+LD-0037,Paid Ads,16/03/2024,16/03/2024,6.1,4-24 hrs,Initial Contact,No,,Mar-24,3
+LD-0038,Referral,07/12/2024,07/12/2024,1.3,1-4 hrs,Deal Closed,Yes,6110,Dec-24,12
+LD-0039,Paid Ads,24/03/2024,24/03/2024,4.9,4-24 hrs,Proposal Sent,No,,Mar-24,3
+LD-0040,Paid Ads,07/05/2024,07/05/2024,4.1,4-24 hrs,Proposal Sent,No,,May-24,5
+LD-0041,Email Marketing,05/06/2024,05/06/2024,4.5,4-24 hrs,Proposal Sent,No,,Jun-24,6
+LD-0042,Website Form,28/06/2024,28/06/2024,0.5,0-1 hr,Qualified Lead,No,,Jun-24,6
+LD-0043,Website Form,15/05/2024,15/05/2024,4,1-4 hrs,Deal Closed,Yes,3340,May-24,5
+LD-0044,Social Media,22/10/2024,22/10/2024,12.8,4-24 hrs,Initial Contact,No,,Oct-24,10
+LD-0045,Referral,10/04/2024,10/04/2024,0.6,0-1 hr,Deal Closed,Yes,11930,Apr-24,4
+LD-0046,Website Form,02/06/2024,02/06/2024,0.3,0-1 hr,Sales Meeting,No,,Jun-24,6
+LD-0047,Social Media,30/03/2024,30/03/2024,3.2,1-4 hrs,Qualified Lead,No,,Mar-24,3
+LD-0048,Referral,26/08/2024,26/08/2024,3.3,1-4 hrs,Deal Closed,Yes,3600,Aug-24,8
+LD-0049,Email Marketing,25/05/2024,25/05/2024,16.4,4-24 hrs,Sales Meeting,No,,May-24,5
+LD-0050,Paid Ads,13/01/2024,13/01/2024,1.2,1-4 hrs,Deal Closed,Yes,5210,Jan-24,1
+LD-0051,Paid Ads,22/12/2024,22/12/2024,13.6,4-24 hrs,Qualified Lead,No,,Dec-24,12
+LD-0052,Social Media,22/04/2024,22/04/2024,2.1,1-4 hrs,Deal Closed,Yes,8790,Apr-24,4
+LD-0053,Website Form,07/12/2024,07/12/2024,2.2,1-4 hrs,Sales Meeting,No,,Dec-24,12
+LD-0054,Paid Ads,07/10/2024,07/10/2024,11.8,4-24 hrs,Initial Contact,No,,Oct-24,10
+LD-0055,Website Form,05/09/2024,05/09/2024,2.9,1-4 hrs,Initial Contact,No,,Sept-24,9
+LD-0056,Social Media,28/04/2024,28/04/2024,4.5,4-24 hrs,Initial Contact,No,,Apr-24,4
+LD-0057,Website Form,18/07/2024,18/07/2024,1.6,1-4 hrs,Sales Meeting,No,,Jul-24,7
+LD-0058,Referral,18/07/2024,18/07/2024,0.8,0-1 hr,Deal Closed,Yes,15240,Jul-24,7
+LD-0059,Social Media,11/08/2024,13/08/2024,64.2,24+ hrs,Qualified Lead,No,,Aug-24,8
+LD-0060,Referral,30/09/2024,30/09/2024,0.6,0-1 hr,Deal Closed,Yes,,Sept-24,9
+LD-0061,Social Media,26/01/2024,26/01/2024,6.4,4-24 hrs,Qualified Lead,No,,Jan-24,1
+LD-0062,Social Media,11/02/2024,11/02/2024,0.7,0-1 hr,Sales Meeting,No,,Feb-24,2
+LD-0063,Email Marketing,16/01/2024,16/01/2024,5.6,4-24 hrs,Initial Contact,No,,Jan-24,1
+LD-0064,Website Form,24/12/2024,24/12/2024,1.3,1-4 hrs,Deal Closed,Yes,4380,Dec-24,12
+LD-0065,Website Form,08/06/2024,08/06/2024,2.7,1-4 hrs,Deal Closed,Yes,5890,Jun-24,6
+LD-0066,Referral,08/02/2024,08/02/2024,0.6,0-1 hr,Proposal Sent,No,,Feb-24,2
+LD-0067,Email Marketing,16/10/2024,16/10/2024,11.5,4-24 hrs,Qualified Lead,No,,Oct-24,10
+LD-0068,Website Form,24/02/2024,24/02/2024,5.2,4-24 hrs,Qualified Lead,No,,Feb-24,2
+LD-0069,Social Media,11/11/2024,11/11/2024,18,4-24 hrs,Qualified Lead,No,,Nov-24,11
+LD-0070,Email Marketing,14/02/2024,14/02/2024,6.1,4-24 hrs,Qualified Lead,No,,Feb-24,2
+LD-0071,Website Form,06/09/2024,06/09/2024,3,1-4 hrs,Deal Closed,Yes,2710,Sept-24,9
+LD-0072,Website Form,07/04/2024,07/04/2024,3.6,1-4 hrs,Deal Closed,Yes,3500,Apr-24,4
+LD-0073,Email Marketing,09/01/2024,09/01/2024,0.3,0-1 hr,Deal Closed,Yes,1940,Jan-24,1
+LD-0074,Email Marketing,05/08/2024,05/08/2024,1.5,1-4 hrs,Sales Meeting,No,,Aug-24,8
+LD-0075,Paid Ads,01/10/2024,01/10/2024,2.9,1-4 hrs,Sales Meeting,No,,Oct-24,10
+LD-0076,Referral,21/02/2024,21/02/2024,0.3,0-1 hr,Initial Contact,No,,Feb-24,2
+LD-0077,Social Media,29/05/2024,29/05/2024,2.2,1-4 hrs,Initial Contact,No,,May-24,5
+LD-0078,Referral,04/04/2024,04/04/2024,4.2,4-24 hrs,Initial Contact,No,,Apr-24,4
+LD-0079,Website Form,18/03/2024,18/03/2024,4.3,4-24 hrs,Deal Closed,Yes,5120,Mar-24,3
+LD-0080,Paid Ads,12/11/2024,12/11/2024,4.9,4-24 hrs,Qualified Lead,No,,Nov-24,11
+LD-0081,Email Marketing,08/11/2024,08/11/2024,2.2,1-4 hrs,Initial Contact,No,,Nov-24,11
+LD-0082,Website Form,21/03/2024,21/03/2024,9.1,4-24 hrs,Deal Closed,Yes,5740,Mar-24,3
+LD-0083,Social Media,20/08/2024,20/08/2024,7.7,4-24 hrs,Deal Closed,Yes,7860,Aug-24,8
+LD-0084,Paid Ads,28/02/2024,28/02/2024,13.6,4-24 hrs,Sales Meeting,No,,Feb-24,2
+LD-0085,Referral,18/10/2024,18/10/2024,3,1-4 hrs,Qualified Lead,No,,Oct-24,10
+LD-0086,Email Marketing,02/11/2024,02/11/2024,0.7,0-1 hr,Deal Closed,Yes,5860,Nov-24,11
+LD-0087,Website Form,21/10/2024,21/10/2024,0.7,0-1 hr,Initial Contact,No,,Oct-24,10
+LD-0088,Email Marketing,14/08/2024,14/08/2024,9.4,4-24 hrs,Initial Contact,No,,Aug-24,8
+LD-0089,Email Marketing,09/12/2024,09/12/2024,2,1-4 hrs,Deal Closed,Yes,3200,Dec-24,12
+LD-0090,Paid Ads,19/01/2024,19/01/2024,1.6,1-4 hrs,Qualified Lead,No,,Jan-24,1
+LD-0091,Social Media,04/10/2024,05/10/2024,24.7,24+ hrs,Initial Contact,No,,Oct-24,10
+LD-0092,Email Marketing,08/03/2024,08/03/2024,15.1,4-24 hrs,Qualified Lead,No,,Mar-24,3
+LD-0093,Email Marketing,09/10/2024,09/10/2024,6.7,4-24 hrs,Deal Closed,Yes,4240,Oct-24,10
+LD-0094,Website Form,19/03/2024,19/03/2024,1.1,1-4 hrs,Sales Meeting,No,,Mar-24,3
+LD-0095,Referral,15/07/2024,15/07/2024,1,0-1 hr,Deal Closed,Yes,3130,Jul-24,7
+LD-0096,Referral,23/06/2024,23/06/2024,2,1-4 hrs,Qualified Lead,No,,Jun-24,6
+LD-0097,Paid Ads,17/03/2024,17/03/2024,4.2,4-24 hrs,Qualified Lead,No,,Mar-24,3
+LD-0098,Email Marketing,02/05/2024,02/05/2024,5.4,4-24 hrs,Initial Contact,No,,May-24,5
+LD-0099,Website Form,05/12/2024,05/12/2024,5.1,4-24 hrs,Sales Meeting,No,,Dec-24,12
+LD-0100,Social Media,13/08/2024,13/08/2024,0.5,0-1 hr,Deal Closed,Yes,2580,Aug-24,8
+LD-0101,Referral,15/05/2024,15/05/2024,6.2,4-24 hrs,Deal Closed,Yes,6560,May-24,5
+LD-0102,Referral,11/06/2024,11/06/2024,0.9,0-1 hr,Proposal Sent,No,,Jun-24,6
+LD-0103,Website Form,26/04/2024,26/04/2024,10.5,4-24 hrs,Qualified Lead,No,,Apr-24,4
+LD-0104,Social Media,24/01/2024,26/01/2024,61.2,24+ hrs,Initial Contact,No,,Jan-24,1
+LD-0105,Referral,30/03/2024,30/03/2024,3.8,1-4 hrs,Deal Closed,Yes,2960,Mar-24,3
+LD-0106,Paid Ads,10/05/2024,10/05/2024,2.3,1-4 hrs,Sales Meeting,No,,May-24,5
+LD-0107,Website Form,27/10/2024,27/10/2024,3.3,1-4 hrs,Deal Closed,Yes,1980,Oct-24,10
+LD-0108,Referral,24/02/2024,24/02/2024,2.4,1-4 hrs,Deal Closed,Yes,2890,Feb-24,2
+LD-0109,Email Marketing,20/05/2024,21/05/2024,36.9,24+ hrs,Deal Closed,Yes,5390,May-24,5
+LD-0110,Website Form,26/05/2024,26/05/2024,2.9,1-4 hrs,Initial Contact,No,,May-24,5
+LD-0111,Paid Ads,14/12/2024,14/12/2024,8.1,4-24 hrs,Sales Meeting,No,,Dec-24,12
+LD-0112,Paid Ads,16/02/2024,16/02/2024,7.3,4-24 hrs,Qualified Lead,No,,Feb-24,2
+LD-0113,Social Media,19/05/2024,19/05/2024,6.3,4-24 hrs,Initial Contact,No,,May-24,5
+LD-0114,Paid Ads,08/02/2024,08/02/2024,10,4-24 hrs,Deal Closed,Yes,6690,Feb-24,2
+LD-0115,Paid Ads,06/07/2024,06/07/2024,6.3,4-24 hrs,Deal Closed,Yes,49590,Jul-24,7
+LD-0116,Paid Ads,14/07/2024,14/07/2024,9.5,4-24 hrs,Deal Closed,Yes,,Jul-24,7
+LD-0117,Social Media,23/04/2024,23/04/2024,13.4,4-24 hrs,Sales Meeting,No,,Apr-24,4
+LD-0118,Email Marketing,09/09/2024,09/09/2024,0.3,0-1 hr,Deal Closed,Yes,7750,Sept-24,9
+LD-0119,Social Media,03/10/2024,03/10/2024,14.1,4-24 hrs,Sales Meeting,No,,Oct-24,10
+LD-0120,Social Media,17/01/2024,17/01/2024,16.1,4-24 hrs,Initial Contact,No,,Jan-24,1
+LD-0121,Website Form,26/11/2024,26/11/2024,0.2,0-1 hr,Deal Closed,Yes,3700,Nov-24,11
+LD-0122,Website Form,24/11/2024,24/11/2024,3,1-4 hrs,Deal Closed,Yes,9450,Nov-24,11
+LD-0123,Paid Ads,10/10/2024,10/10/2024,1.5,1-4 hrs,Initial Contact,No,,Oct-24,10
+LD-0124,Email Marketing,15/03/2024,15/03/2024,0.7,0-1 hr,Qualified Lead,No,,Mar-24,3
+LD-0125,Website Form,28/10/2024,28/10/2024,3,1-4 hrs,Initial Contact,No,,Oct-24,10
+LD-0126,Email Marketing,19/09/2024,19/09/2024,8.1,4-24 hrs,Qualified Lead,No,,Sept-24,9
+LD-0127,Paid Ads,25/11/2024,25/11/2024,22.3,4-24 hrs,Initial Contact,No,,Nov-24,11
+LD-0128,Email Marketing,11/02/2024,11/02/2024,3.1,1-4 hrs,Initial Contact,No,,Feb-24,2
+LD-0129,Paid Ads,30/05/2024,30/05/2024,1.9,1-4 hrs,Sales Meeting,No,,May-24,5
+LD-0130,Social Media,20/04/2024,20/04/2024,1.5,1-4 hrs,Proposal Sent,No,,Apr-24,4
+LD-0131,Website Form,10/05/2024,10/05/2024,13.1,4-24 hrs,Initial Contact,No,,May-24,5
+LD-0132,Paid Ads,07/03/2024,07/03/2024,7.1,4-24 hrs,Sales Meeting,No,,Mar-24,3
+LD-0133,Social Media,27/01/2024,27/01/2024,3.4,1-4 hrs,Sales Meeting,No,,Jan-24,1
+LD-0134,Website Form,11/10/2024,11/10/2024,1.2,1-4 hrs,Proposal Sent,No,,Oct-24,10
+LD-0135,Email Marketing,25/11/2024,25/11/2024,10,4-24 hrs,Sales Meeting,No,,Nov-24,11
+LD-0136,Email Marketing,28/06/2024,28/06/2024,4.7,4-24 hrs,Deal Closed,Yes,17560,Jun-24,6
+LD-0137,Social Media,28/09/2024,28/09/2024,5.1,4-24 hrs,Qualified Lead,No,,Sept-24,9
+LD-0138,Social Media,27/01/2024,28/01/2024,25.5,24+ hrs,Proposal Sent,No,,Jan-24,1
+LD-0139,Website Form,20/04/2024,20/04/2024,0.5,0-1 hr,Initial Contact,No,,Apr-24,4
+LD-0140,Website Form,21/07/2024,21/07/2024,0.2,0-1 hr,Initial Contact,No,,Jul-24,7
+LD-0141,Paid Ads,11/09/2024,11/09/2024,7.3,4-24 hrs,Initial Contact,No,,Sept-24,9
+LD-0142,Social Media,22/01/2024,22/01/2024,1.9,1-4 hrs,Qualified Lead,No,,Jan-24,1
+LD-0143,Social Media,26/07/2024,26/07/2024,11.5,4-24 hrs,Deal Closed,Yes,9130,Jul-24,7
+LD-0144,Website Form,24/02/2024,24/02/2024,2.3,1-4 hrs,Deal Closed,Yes,13090,Feb-24,2
+LD-0145,Email Marketing,27/03/2024,27/03/2024,0.4,0-1 hr,Deal Closed,Yes,2080,Mar-24,3
+LD-0146,Social Media,26/11/2024,26/11/2024,17.7,4-24 hrs,Initial Contact,No,,Nov-24,11
+LD-0147,Email Marketing,17/11/2024,17/11/2024,15.5,4-24 hrs,Proposal Sent,No,,Nov-24,11
+LD-0148,Email Marketing,17/11/2024,17/11/2024,1.4,1-4 hrs,Qualified Lead,No,,Nov-24,11
+LD-0149,Website Form,24/08/2024,24/08/2024,4.1,4-24 hrs,Initial Contact,No,,Aug-24,8
+LD-0150,Website Form,24/08/2024,24/08/2024,3.5,1-4 hrs,Deal Closed,Yes,5260,Aug-24,8
+LD-0151,Social Media,13/09/2024,13/09/2024,18.6,4-24 hrs,Initial Contact,No,,Sept-24,9
+LD-0152,Social Media,06/05/2024,06/05/2024,14.2,4-24 hrs,Deal Closed,Yes,7310,May-24,5
+LD-0153,Referral,13/12/2024,13/12/2024,1,0-1 hr,Proposal Sent,No,,Dec-24,12
+LD-0154,Referral,02/12/2024,02/12/2024,4.7,4-24 hrs,Sales Meeting,No,,Dec-24,12
+LD-0155,Website Form,05/12/2024,05/12/2024,0.3,0-1 hr,Deal Closed,Yes,5820,Dec-24,12
+LD-0156,Website Form,09/12/2024,09/12/2024,3,1-4 hrs,Deal Closed,Yes,3380,Dec-24,12
+LD-0157,Paid Ads,07/06/2024,07/06/2024,0.2,0-1 hr,Deal Closed,Yes,3450,Jun-24,6
+LD-0158,Website Form,21/02/2024,21/02/2024,4.8,4-24 hrs,Qualified Lead,No,,Feb-24,2
+LD-0159,Email Marketing,19/03/2024,19/03/2024,16.8,4-24 hrs,Deal Closed,Yes,8180,Mar-24,3
+LD-0160,Paid Ads,12/12/2024,12/12/2024,9.8,4-24 hrs,Deal Closed,Yes,2990,Dec-24,12
+LD-0161,Paid Ads,28/08/2024,28/08/2024,9.9,4-24 hrs,Initial Contact,No,,Aug-24,8
+LD-0162,Referral,02/08/2024,02/08/2024,1.1,1-4 hrs,Proposal Sent,No,,Aug-24,8
+LD-0163,Social Media,22/02/2024,23/02/2024,27,24+ hrs,Qualified Lead,No,,Feb-24,2
+LD-0164,Social Media,16/02/2024,18/02/2024,48.1,24+ hrs,Initial Contact,No,,Feb-24,2
+LD-0165,Paid Ads,11/02/2024,11/02/2024,3.4,1-4 hrs,Initial Contact,No,,Feb-24,2
+LD-0166,Paid Ads,29/08/2024,29/08/2024,8.4,4-24 hrs,Initial Contact,No,,Aug-24,8
+LD-0167,Website Form,07/10/2024,07/10/2024,9.3,4-24 hrs,Sales Meeting,No,,Oct-24,10
+LD-0168,Email Marketing,14/11/2024,14/11/2024,14,4-24 hrs,Initial Contact,No,,Nov-24,11
+LD-0169,Social Media,07/08/2024,08/08/2024,40.7,24+ hrs,Deal Closed,Yes,3510,Aug-24,8
+LD-0170,Social Media,26/09/2024,26/09/2024,0.5,0-1 hr,Proposal Sent,No,,Sept-24,9
+LD-0171,Referral,09/01/2024,09/01/2024,0.2,0-1 hr,Deal Closed,Yes,5970,Jan-24,1
+LD-0172,Referral,09/03/2024,09/03/2024,1.7,1-4 hrs,Deal Closed,Yes,4550,Mar-24,3
+LD-0173,Email Marketing,19/11/2024,19/11/2024,4.8,4-24 hrs,Deal Closed,Yes,2690,Nov-24,11
+LD-0174,Email Marketing,22/01/2024,22/01/2024,11.2,4-24 hrs,Qualified Lead,No,,Jan-24,1
+LD-0175,Paid Ads,25/01/2024,25/01/2024,9.4,4-24 hrs,Qualified Lead,No,,Jan-24,1
+LD-0176,Website Form,05/04/2024,05/04/2024,2.7,1-4 hrs,Qualified Lead,No,,Apr-24,4
+LD-0177,Website Form,02/04/2024,02/04/2024,3.2,1-4 hrs,Qualified Lead,No,,Apr-24,4
+LD-0178,Social Media,28/06/2024,29/06/2024,39.4,24+ hrs,Sales Meeting,No,,Jun-24,6
+LD-0179,Social Media,09/12/2024,09/12/2024,2.2,1-4 hrs,Qualified Lead,No,,Dec-24,12
+LD-0180,Website Form,18/01/2024,18/01/2024,5.7,4-24 hrs,Deal Closed,Yes,2370,Jan-24,1
+LD-0181,Email Marketing,18/08/2024,18/08/2024,0.9,0-1 hr,Qualified Lead,No,,Aug-24,8
+LD-0182,Website Form,28/02/2024,28/02/2024,4.8,4-24 hrs,Deal Closed,Yes,3700,Feb-24,2
+LD-0183,Website Form,19/04/2024,19/04/2024,17.3,4-24 hrs,Initial Contact,No,,Apr-24,4
+LD-0184,Social Media,15/08/2024,15/08/2024,8.3,4-24 hrs,Proposal Sent,No,,Aug-24,8
+LD-0185,Paid Ads,02/06/2024,02/06/2024,17.7,4-24 hrs,Sales Meeting,No,,Jun-24,6
+LD-0186,Referral,12/03/2024,12/03/2024,2.8,1-4 hrs,Deal Closed,Yes,5650,Mar-24,3
+LD-0187,Social Media,14/02/2024,14/02/2024,1.6,1-4 hrs,Deal Closed,Yes,5920,Feb-24,2
+LD-0188,Social Media,05/03/2024,06/03/2024,42.6,24+ hrs,Sales Meeting,No,,Mar-24,3
+LD-0189,Website Form,03/04/2024,03/04/2024,2.7,1-4 hrs,Initial Contact,No,,Apr-24,4
+LD-0190,Website Form,29/12/2024,29/12/2024,2.5,1-4 hrs,Deal Closed,Yes,11910,Dec-24,12
+LD-0191,Website Form,20/05/2024,20/05/2024,0.5,0-1 hr,Deal Closed,Yes,5960,May-24,5
+LD-0192,Paid Ads,03/12/2024,03/12/2024,5.3,4-24 hrs,Deal Closed,Yes,2990,Dec-24,12
+LD-0193,Referral,22/10/2024,22/10/2024,0.9,0-1 hr,Deal Closed,Yes,7440,Oct-24,10
+LD-0194,Website Form,24/11/2024,24/11/2024,13.2,4-24 hrs,Qualified Lead,No,,Nov-24,11
+LD-0195,Website Form,04/09/2024,04/09/2024,14,4-24 hrs,Qualified Lead,No,,Sept-24,9
+LD-0196,Website Form,08/07/2024,08/07/2024,8.9,4-24 hrs,Initial Contact,No,,Jul-24,7
+LD-0197,Email Marketing,11/11/2024,12/11/2024,39.7,24+ hrs,Deal Closed,Yes,3860,Nov-24,11
+LD-0198,Website Form,20/09/2024,20/09/2024,3.2,1-4 hrs,Proposal Sent,No,,Sept-24,9
+LD-0199,Referral,25/01/2024,25/01/2024,1.5,1-4 hrs,Deal Closed,Yes,11740,Jan-24,1
+LD-0200,Social Media,08/08/2024,08/08/2024,17.8,4-24 hrs,Deal Closed,Yes,8740,Aug-24,8
+LD-0201,Email Marketing,04/07/2024,04/07/2024,18.5,4-24 hrs,Initial Contact,No,,Jul-24,7
+LD-0202,Website Form,19/02/2024,19/02/2024,1.3,1-4 hrs,Proposal Sent,No,,Feb-24,2
+LD-0203,Referral,24/01/2024,24/01/2024,4.4,4-24 hrs,Deal Closed,Yes,18290,Jan-24,1
+LD-0204,Website Form,09/11/2024,09/11/2024,0.8,0-1 hr,Deal Closed,Yes,3030,Nov-24,11
+LD-0205,Social Media,07/09/2024,07/09/2024,7.8,4-24 hrs,Initial Contact,No,,Sept-24,9
+LD-0206,Email Marketing,18/12/2024,18/12/2024,0.6,0-1 hr,Sales Meeting,No,,Dec-24,12
+LD-0207,Referral,02/09/2024,02/09/2024,1.8,1-4 hrs,Deal Closed,Yes,6030,Sept-24,9
+LD-0208,Social Media,24/12/2024,25/12/2024,30.3,24+ hrs,Initial Contact,No,,Dec-24,12
+LD-0209,Paid Ads,01/02/2024,01/02/2024,1.1,1-4 hrs,Qualified Lead,No,,Feb-24,2
+LD-0210,Referral,29/09/2024,29/09/2024,3.5,1-4 hrs,Deal Closed,Yes,15150,Sept-24,9
+LD-0211,Referral,08/04/2024,08/04/2024,2.6,1-4 hrs,Initial Contact,No,,Apr-24,4
+LD-0212,Email Marketing,07/09/2024,07/09/2024,4.3,4-24 hrs,Qualified Lead,No,,Sept-24,9
+LD-0213,Referral,21/07/2024,21/07/2024,4,1-4 hrs,Deal Closed,Yes,9970,Jul-24,7
+LD-0214,Referral,11/05/2024,11/05/2024,0.3,0-1 hr,Initial Contact,No,,May-24,5
+LD-0215,Email Marketing,02/05/2024,02/05/2024,3.8,1-4 hrs,Sales Meeting,No,,May-24,5
+LD-0216,Referral,11/03/2024,11/03/2024,3.7,1-4 hrs,Deal Closed,Yes,3710,Mar-24,3
+LD-0217,Paid Ads,12/04/2024,12/04/2024,3.8,1-4 hrs,Initial Contact,No,,Apr-24,4
+LD-0218,Social Media,20/01/2024,20/01/2024,5.7,4-24 hrs,Initial Contact,No,,Jan-24,1
+LD-0219,Website Form,28/05/2024,28/05/2024,8,4-24 hrs,Initial Contact,No,,May-24,5
+LD-0220,Paid Ads,09/09/2024,11/09/2024,49,24+ hrs,Initial Contact,No,,Sept-24,9
+LD-0221,Referral,05/04/2024,05/04/2024,1.6,1-4 hrs,Deal Closed,Yes,3750,Apr-24,4
+LD-0222,Social Media,26/07/2024,26/07/2024,2.5,1-4 hrs,Qualified Lead,No,,Jul-24,7
+LD-0223,Referral,13/05/2024,13/05/2024,1.9,1-4 hrs,Deal Closed,Yes,7140,May-24,5
+LD-0224,Website Form,03/07/2024,03/07/2024,4.5,4-24 hrs,Initial Contact,No,,Jul-24,7
+LD-0225,Email Marketing,08/06/2024,08/06/2024,3.5,1-4 hrs,Sales Meeting,No,,Jun-24,6
+LD-0226,Website Form,06/11/2024,06/11/2024,4.5,4-24 hrs,Sales Meeting,No,,Nov-24,11
+LD-0227,Email Marketing,01/11/2024,01/11/2024,11.8,4-24 hrs,Initial Contact,No,,Nov-24,11
+LD-0228,Email Marketing,15/09/2024,15/09/2024,15.3,4-24 hrs,Deal Closed,Yes,16920,Sept-24,9
+LD-0229,Paid Ads,07/09/2024,07/09/2024,3.1,1-4 hrs,Deal Closed,Yes,14090,Sept-24,9
+LD-0230,Website Form,24/08/2024,24/08/2024,0.2,0-1 hr,Qualified Lead,No,,Aug-24,8
+LD-0231,Paid Ads,24/12/2024,24/12/2024,5.8,4-24 hrs,Deal Closed,Yes,2750,Dec-24,12
+LD-0232,Website Form,10/03/2024,10/03/2024,0.2,0-1 hr,Deal Closed,Yes,7420,Mar-24,3
+LD-0233,Social Media,11/07/2024,11/07/2024,16,4-24 hrs,Deal Closed,Yes,2420,Jul-24,7
+LD-0234,Referral,20/07/2024,20/07/2024,0.9,0-1 hr,Deal Closed,Yes,,Jul-24,7
+LD-0235,Email Marketing,05/10/2024,05/10/2024,12.2,4-24 hrs,Qualified Lead,No,,Oct-24,10
+LD-0236,Social Media,17/01/2024,17/01/2024,13.4,4-24 hrs,Qualified Lead,No,,Jan-24,1
+LD-0237,Paid Ads,02/11/2024,02/11/2024,17.9,4-24 hrs,Proposal Sent,No,,Nov-24,11
+LD-0238,Website Form,12/03/2024,12/03/2024,10.4,4-24 hrs,Initial Contact,No,,Mar-24,3
+LD-0239,Social Media,03/06/2024,03/06/2024,5.4,4-24 hrs,Deal Closed,Yes,6190,Jun-24,6
+LD-0240,Social Media,30/03/2024,30/03/2024,7.2,4-24 hrs,Qualified Lead,No,,Mar-24,3
+LD-0241,Email Marketing,01/08/2024,01/08/2024,2.2,1-4 hrs,Initial Contact,No,,Aug-24,8
+LD-0242,Website Form,25/08/2024,25/08/2024,0.6,0-1 hr,Sales Meeting,No,,Aug-24,8
+LD-0243,Website Form,18/08/2024,18/08/2024,0.7,0-1 hr,Initial Contact,No,,Aug-24,8
+LD-0244,Website Form,06/04/2024,06/04/2024,4.1,4-24 hrs,Sales Meeting,No,,Apr-24,4
+LD-0245,Website Form,18/04/2024,18/04/2024,1.7,1-4 hrs,Deal Closed,Yes,4820,Apr-24,4
+LD-0246,Referral,02/05/2024,02/05/2024,1.3,1-4 hrs,Proposal Sent,No,,May-24,5
+LD-0247,Email Marketing,20/02/2024,20/02/2024,1.5,1-4 hrs,Sales Meeting,No,,Feb-24,2
+LD-0248,Website Form,15/03/2024,15/03/2024,0.2,0-1 hr,Deal Closed,Yes,3580,Mar-24,3
+LD-0249,Website Form,18/10/2024,18/10/2024,0.4,0-1 hr,Qualified Lead,No,,Oct-24,10
+LD-0250,Website Form,08/09/2024,08/09/2024,2.5,1-4 hrs,Sales Meeting,No,,Sept-24,9
+LD-0251,Website Form,31/01/2024,31/01/2024,1.8,1-4 hrs,Proposal Sent,No,,Jan-24,1
+LD-0252,Email Marketing,04/02/2024,04/02/2024,9.4,4-24 hrs,Initial Contact,No,,Feb-24,2
+LD-0253,Website Form,06/09/2024,06/09/2024,6.4,4-24 hrs,Deal Closed,Yes,,Sept-24,9
+LD-0254,Email Marketing,14/09/2024,14/09/2024,0.7,0-1 hr,Sales Meeting,No,,Sept-24,9
+LD-0255,Paid Ads,26/09/2024,26/09/2024,15.2,4-24 hrs,Qualified Lead,No,,Sept-24,9
+LD-0256,Website Form,02/06/2024,02/06/2024,1.3,1-4 hrs,Proposal Sent,No,,Jun-24,6
+LD-0257,Paid Ads,29/01/2024,29/01/2024,8.3,4-24 hrs,Sales Meeting,No,,Jan-24,1
+LD-0258,Website Form,27/09/2024,27/09/2024,0.9,0-1 hr,Initial Contact,No,,Sept-24,9
+LD-0259,Social Media,23/05/2024,23/05/2024,11.9,4-24 hrs,Sales Meeting,No,,May-24,5
+LD-0260,Email Marketing,30/12/2024,30/12/2024,3.7,1-4 hrs,Deal Closed,Yes,13190,Dec-24,12
+LD-0261,Website Form,15/07/2024,15/07/2024,1.2,1-4 hrs,Initial Contact,No,,Jul-24,7
+LD-0262,Paid Ads,08/02/2024,08/02/2024,13.5,4-24 hrs,Proposal Sent,No,,Feb-24,2
+LD-0263,Email Marketing,08/09/2024,08/09/2024,6.1,4-24 hrs,Sales Meeting,No,,Sept-24,9
+LD-0264,Website Form,06/05/2024,06/05/2024,2.4,1-4 hrs,Initial Contact,No,,May-24,5
+LD-0265,Email Marketing,03/01/2024,03/01/2024,2.2,1-4 hrs,Qualified Lead,No,,Jan-24,1
+LD-0266,Website Form,22/02/2024,22/02/2024,1.9,1-4 hrs,Deal Closed,Yes,4230,Feb-24,2
+LD-0267,Website Form,17/07/2024,17/07/2024,1.6,1-4 hrs,Sales Meeting,No,,Jul-24,7
+LD-0268,Website Form,17/05/2024,17/05/2024,1.6,1-4 hrs,Deal Closed,Yes,13520,May-24,5
+LD-0269,Paid Ads,08/05/2024,08/05/2024,4.1,4-24 hrs,Sales Meeting,No,,May-24,5
+LD-0270,Website Form,13/11/2024,13/11/2024,3.1,1-4 hrs,Proposal Sent,No,,Nov-24,11
+LD-0271,Email Marketing,04/11/2024,04/11/2024,10.9,4-24 hrs,Initial Contact,No,,Nov-24,11
+LD-0272,Social Media,21/10/2024,21/10/2024,2.5,1-4 hrs,Qualified Lead,No,,Oct-24,10
+LD-0273,Social Media,02/04/2024,02/04/2024,8.1,4-24 hrs,Sales Meeting,No,,Apr-24,4
+LD-0274,Email Marketing,28/07/2024,28/07/2024,6.8,4-24 hrs,Initial Contact,No,,Jul-24,7
+LD-0275,Social Media,02/11/2024,05/11/2024,77.5,24+ hrs,Qualified Lead,No,,Nov-24,11
+LD-0276,Email Marketing,01/10/2024,01/10/2024,2.2,1-4 hrs,Deal Closed,Yes,8340,Oct-24,10
+LD-0277,Website Form,26/11/2024,26/11/2024,0.7,0-1 hr,Qualified Lead,No,,Nov-24,11
+LD-0278,Website Form,22/09/2024,22/09/2024,0.7,0-1 hr,Sales Meeting,No,,Sept-24,9
+LD-0279,Website Form,13/01/2024,13/01/2024,1.3,1-4 hrs,Initial Contact,No,,Jan-24,1
+LD-0280,Website Form,15/04/2024,15/04/2024,9.1,4-24 hrs,Qualified Lead,No,,Apr-24,4
+LD-0281,Website Form,12/01/2024,12/01/2024,3,1-4 hrs,Sales Meeting,No,,Jan-24,1
+LD-0282,Social Media,13/10/2024,16/10/2024,72.7,24+ hrs,Qualified Lead,No,,Oct-24,10
+LD-0283,Website Form,11/04/2024,11/04/2024,2,1-4 hrs,Qualified Lead,No,,Apr-24,4
+LD-0284,Referral,01/10/2024,01/10/2024,4,1-4 hrs,Deal Closed,Yes,3480,Oct-24,10
+LD-0285,Website Form,01/11/2024,01/11/2024,4.4,4-24 hrs,Qualified Lead,No,,Nov-24,11
+LD-0286,Referral,10/11/2024,10/11/2024,1.6,1-4 hrs,Sales Meeting,No,,Nov-24,11
+LD-0287,Email Marketing,01/11/2024,01/11/2024,2.6,1-4 hrs,Deal Closed,Yes,7730,Nov-24,11
+LD-0288,Paid Ads,11/10/2024,11/10/2024,1.2,1-4 hrs,Deal Closed,Yes,3110,Oct-24,10
+LD-0289,Email Marketing,05/09/2024,05/09/2024,2.2,1-4 hrs,Deal Closed,Yes,1660,Sept-24,9
+LD-0290,Website Form,15/08/2024,15/08/2024,3.8,1-4 hrs,Initial Contact,No,,Aug-24,8
+LD-0291,Social Media,22/08/2024,22/08/2024,15.7,4-24 hrs,Proposal Sent,No,,Aug-24,8
+LD-0292,Website Form,04/10/2024,04/10/2024,2.6,1-4 hrs,Initial Contact,No,,Oct-24,10
+LD-0293,Email Marketing,01/06/2024,01/06/2024,0.4,0-1 hr,Initial Contact,No,,Jun-24,6
+LD-0294,Social Media,17/04/2024,17/04/2024,2.6,1-4 hrs,Sales Meeting,No,,Apr-24,4
+LD-0295,Website Form,15/04/2024,15/04/2024,18.4,4-24 hrs,Sales Meeting,No,,Apr-24,4
+LD-0296,Social Media,20/09/2024,21/09/2024,29.9,24+ hrs,Sales Meeting,No,,Sept-24,9
+LD-0297,Website Form,05/03/2024,05/03/2024,4.6,4-24 hrs,Initial Contact,No,,Mar-24,3
+LD-0298,Paid Ads,19/11/2024,19/11/2024,5.4,4-24 hrs,Qualified Lead,No,,Nov-24,11
+LD-0299,Social Media,07/07/2024,07/07/2024,9.6,4-24 hrs,Qualified Lead,No,,Jul-24,7
+LD-0300,Social Media,23/12/2024,24/12/2024,47.7,24+ hrs,Initial Contact,No,,Dec-24,12
+LD-0301,Paid Ads,21/06/2024,21/06/2024,20.1,4-24 hrs,Initial Contact,No,,Jun-24,6
+LD-0302,Website Form,23/08/2024,23/08/2024,5.3,4-24 hrs,Deal Closed,Yes,5180,Aug-24,8
+LD-0303,Email Marketing,08/03/2024,08/03/2024,14.8,4-24 hrs,Qualified Lead,No,,Mar-24,3
+LD-0304,Website Form,28/11/2024,28/11/2024,6.3,4-24 hrs,Deal Closed,Yes,4480,Nov-24,11
+LD-0305,Website Form,01/01/2024,01/01/2024,0.7,0-1 hr,Deal Closed,Yes,6230,Jan-24,1
+LD-0306,Email Marketing,02/03/2024,02/03/2024,5.9,4-24 hrs,Qualified Lead,No,,Mar-24,3
+LD-0307,Social Media,02/06/2024,03/06/2024,13.4,4-24 hrs,Proposal Sent,No,,Jun-24,6
+LD-0308,Social Media,28/11/2024,29/11/2024,30.5,24+ hrs,Qualified Lead,No,,Nov-24,11
+LD-0309,Social Media,21/02/2024,21/02/2024,8.5,4-24 hrs,Initial Contact,No,,Feb-24,2
+LD-0310,Social Media,07/05/2024,07/05/2024,6.5,4-24 hrs,Sales Meeting,No,,May-24,5
+LD-0311,Paid Ads,22/09/2024,22/09/2024,4.2,4-24 hrs,Initial Contact,No,,Sept-24,9
+LD-0312,Website Form,03/05/2024,03/05/2024,9.2,4-24 hrs,Sales Meeting,No,,May-24,5
+LD-0313,Social Media,18/10/2024,18/10/2024,13.4,4-24 hrs,Qualified Lead,No,,Oct-24,10
+LD-0314,Referral,20/04/2024,20/04/2024,2,1-4 hrs,Deal Closed,Yes,3820,Apr-24,4
+LD-0315,Website Form,25/12/2024,25/12/2024,11.2,4-24 hrs,Sales Meeting,No,,Dec-24,12
+LD-0316,Email Marketing,20/03/2024,20/03/2024,3.3,1-4 hrs,Qualified Lead,No,,Mar-24,3
+LD-0317,Website Form,02/05/2024,02/05/2024,6.3,4-24 hrs,Deal Closed,Yes,7180,May-24,5
+LD-0318,Referral,30/03/2024,30/03/2024,3.1,1-4 hrs,Deal Closed,Yes,19200,Mar-24,3
+LD-0319,Website Form,12/05/2024,12/05/2024,3,1-4 hrs,Deal Closed,Yes,8090,May-24,5
+LD-0320,Website Form,07/08/2024,07/08/2024,3.4,1-4 hrs,Deal Closed,Yes,2940,Aug-24,8
+LD-0321,Paid Ads,12/09/2024,12/09/2024,12.6,4-24 hrs,Initial Contact,No,,Sept-24,9
+LD-0322,Social Media,02/01/2024,03/01/2024,31,24+ hrs,Deal Closed,Yes,4180,Jan-24,1
+LD-0323,Paid Ads,19/01/2024,19/01/2024,1,0-1 hr,Deal Closed,Yes,2730,Jan-24,1
+LD-0324,Website Form,09/02/2024,09/02/2024,5.1,4-24 hrs,Initial Contact,No,,Feb-24,2
+LD-0325,Paid Ads,26/08/2024,26/08/2024,6.1,4-24 hrs,Proposal Sent,No,,Aug-24,8
+LD-0326,Paid Ads,14/11/2024,14/11/2024,4.7,4-24 hrs,Qualified Lead,No,,Nov-24,11
+LD-0327,Website Form,18/03/2024,18/03/2024,1.7,1-4 hrs,Deal Closed,Yes,1690,Mar-24,3
+LD-0328,Social Media,01/01/2024,03/01/2024,53,24+ hrs,Qualified Lead,No,,Jan-24,1
+LD-0329,Website Form,13/03/2024,13/03/2024,3.5,1-4 hrs,Initial Contact,No,,Mar-24,3
+LD-0330,Email Marketing,13/02/2024,13/02/2024,7.6,4-24 hrs,Qualified Lead,No,,Feb-24,2
+LD-0331,Website Form,29/05/2024,29/05/2024,8.2,4-24 hrs,Deal Closed,Yes,12060,May-24,5
+LD-0332,Referral,08/02/2024,08/02/2024,1.7,1-4 hrs,Initial Contact,No,,Feb-24,2
+LD-0333,Paid Ads,02/07/2024,02/07/2024,15.3,4-24 hrs,Initial Contact,No,,Jul-24,7
+LD-0334,Paid Ads,22/12/2024,22/12/2024,1,0-1 hr,Initial Contact,No,,Dec-24,12
+LD-0335,Email Marketing,02/06/2024,02/06/2024,7.5,4-24 hrs,Deal Closed,Yes,12780,Jun-24,6
+LD-0336,Referral,12/03/2024,12/03/2024,5.2,4-24 hrs,Deal Closed,Yes,3620,Mar-24,3
+LD-0337,Social Media,26/11/2024,26/11/2024,2.2,1-4 hrs,Deal Closed,Yes,5080,Nov-24,11
+LD-0338,Email Marketing,06/03/2024,06/03/2024,4.1,4-24 hrs,Deal Closed,Yes,9480,Mar-24,3
+LD-0339,Website Form,09/08/2024,09/08/2024,1.6,1-4 hrs,Qualified Lead,No,,Aug-24,8
+LD-0340,Paid Ads,17/03/2024,17/03/2024,0.2,0-1 hr,Deal Closed,Yes,2680,Mar-24,3
+LD-0341,Email Marketing,23/05/2024,23/05/2024,4.7,4-24 hrs,Qualified Lead,No,,May-24,5
+LD-0342,Social Media,14/07/2024,14/07/2024,7.7,4-24 hrs,Qualified Lead,No,,Jul-24,7
+LD-0343,Paid Ads,12/06/2024,12/06/2024,3.6,1-4 hrs,Initial Contact,No,,Jun-24,6
+LD-0344,Website Form,29/04/2024,29/04/2024,2.4,1-4 hrs,Initial Contact,No,,Apr-24,4
+LD-0345,Website Form,22/04/2024,22/04/2024,0.8,0-1 hr,Deal Closed,Yes,1820,Apr-24,4
+LD-0346,Social Media,23/12/2024,23/12/2024,9.8,4-24 hrs,Sales Meeting,No,,Dec-24,12
+LD-0347,Referral,09/09/2024,09/09/2024,0.9,0-1 hr,Deal Closed,Yes,14900,Sept-24,9
+LD-0348,Website Form,18/06/2024,18/06/2024,3,1-4 hrs,Initial Contact,No,,Jun-24,6
+LD-0349,Website Form,27/10/2024,27/10/2024,13,4-24 hrs,Initial Contact,No,,Oct-24,10
+LD-0350,Website Form,27/10/2024,27/10/2024,2.1,1-4 hrs,Deal Closed,Yes,9660,Oct-24,10
+LD-0351,Website Form,28/11/2024,28/11/2024,23.1,4-24 hrs,Deal Closed,Yes,23020,Nov-24,11
+LD-0352,Website Form,30/03/2024,30/03/2024,5.5,4-24 hrs,Sales Meeting,No,,Mar-24,3
+LD-0353,Website Form,17/10/2024,17/10/2024,9.1,4-24 hrs,Deal Closed,Yes,5090,Oct-24,10
+LD-0354,Website Form,13/03/2024,13/03/2024,0.8,0-1 hr,Deal Closed,Yes,4820,Mar-24,3
+LD-0355,Email Marketing,09/12/2024,09/12/2024,0.5,0-1 hr,Proposal Sent,No,,Dec-24,12
+LD-0356,Paid Ads,01/01/2024,01/01/2024,3.6,1-4 hrs,Deal Closed,Yes,3550,Jan-24,1
+LD-0357,Email Marketing,11/07/2024,11/07/2024,4.6,4-24 hrs,Deal Closed,Yes,10380,Jul-24,7
+LD-0358,Website Form,18/01/2024,18/01/2024,0.8,0-1 hr,Deal Closed,Yes,1420,Jan-24,1
+LD-0359,Paid Ads,07/10/2024,07/10/2024,17.5,4-24 hrs,Deal Closed,Yes,2110,Oct-24,10
+LD-0360,Email Marketing,06/11/2024,06/11/2024,4.2,4-24 hrs,Initial Contact,No,,Nov-24,11
+LD-0361,Website Form,15/05/2024,15/05/2024,3,1-4 hrs,Initial Contact,No,,May-24,5
+LD-0362,Paid Ads,14/02/2024,14/02/2024,6.5,4-24 hrs,Sales Meeting,No,,Feb-24,2
+LD-0363,Website Form,29/02/2024,29/02/2024,1,0-1 hr,Deal Closed,Yes,3080,Feb-24,2
+LD-0364,Website Form,14/07/2024,14/07/2024,4.5,4-24 hrs,Qualified Lead,No,,Jul-24,7
+LD-0365,Website Form,07/12/2024,07/12/2024,0.4,0-1 hr,Deal Closed,Yes,3590,Dec-24,12
+LD-0366,Email Marketing,17/07/2024,17/07/2024,2.2,1-4 hrs,Qualified Lead,No,,Jul-24,7
+LD-0367,Website Form,18/01/2024,18/01/2024,1.1,1-4 hrs,Deal Closed,Yes,6590,Jan-24,1
+LD-0368,Paid Ads,26/03/2024,26/03/2024,11.6,4-24 hrs,Proposal Sent,No,,Mar-24,3
+LD-0369,Paid Ads,31/10/2024,31/10/2024,3,1-4 hrs,Deal Closed,Yes,2570,Oct-24,10
+LD-0370,Social Media,22/08/2024,23/08/2024,40.8,24+ hrs,Initial Contact,No,,Aug-24,8
+LD-0371,Website Form,25/10/2024,25/10/2024,0.4,0-1 hr,Deal Closed,Yes,7110,Oct-24,10
+LD-0372,Website Form,29/07/2024,29/07/2024,0.2,0-1 hr,Deal Closed,Yes,5980,Jul-24,7
+LD-0373,Social Media,14/12/2024,15/12/2024,40.2,24+ hrs,Initial Contact,No,,Dec-24,12
+LD-0374,Paid Ads,11/01/2024,11/01/2024,2.5,1-4 hrs,Proposal Sent,No,,Jan-24,1
+LD-0375,Website Form,02/06/2024,02/06/2024,1.9,1-4 hrs,Qualified Lead,No,,Jun-24,6
+LD-0376,Email Marketing,27/07/2024,27/07/2024,2.5,1-4 hrs,Proposal Sent,No,,Jul-24,7
+LD-0377,Email Marketing,10/03/2024,10/03/2024,4.7,4-24 hrs,Qualified Lead,No,,Mar-24,3
+LD-0378,Email Marketing,26/01/2024,26/01/2024,4.7,4-24 hrs,Sales Meeting,No,,Jan-24,1
+LD-0379,Social Media,09/07/2024,11/07/2024,53.4,24+ hrs,Qualified Lead,No,,Jul-24,7
+LD-0380,Paid Ads,18/12/2024,18/12/2024,0.9,0-1 hr,Deal Closed,Yes,2320,Dec-24,12
+LD-0381,Paid Ads,25/04/2024,25/04/2024,4,1-4 hrs,Initial Contact,No,,Apr-24,4
+LD-0382,Referral,27/11/2024,27/11/2024,3.2,1-4 hrs,Deal Closed,Yes,3950,Nov-24,11
+LD-0383,Website Form,20/05/2024,20/05/2024,3.1,1-4 hrs,Qualified Lead,No,,May-24,5
+LD-0384,Email Marketing,22/02/2024,22/02/2024,2.4,1-4 hrs,Deal Closed,Yes,4750,Feb-24,2
+LD-0385,Website Form,16/12/2024,16/12/2024,7.2,4-24 hrs,Deal Closed,Yes,4970,Dec-24,12
+LD-0386,Website Form,29/11/2024,29/11/2024,1.3,1-4 hrs,Deal Closed,Yes,6050,Nov-24,11
+LD-0387,Website Form,04/12/2024,04/12/2024,9.8,4-24 hrs,Deal Closed,Yes,5530,Dec-24,12
+LD-0388,Website Form,19/01/2024,19/01/2024,3.2,1-4 hrs,Deal Closed,Yes,2730,Jan-24,1
+LD-0389,Email Marketing,09/12/2024,09/12/2024,14.2,4-24 hrs,Qualified Lead,No,,Dec-24,12
+LD-0390,Website Form,13/10/2024,13/10/2024,0.2,0-1 hr,Initial Contact,No,,Oct-24,10
+LD-0391,Website Form,18/06/2024,18/06/2024,9.2,4-24 hrs,Sales Meeting,No,,Jun-24,6
+LD-0392,Paid Ads,29/08/2024,29/08/2024,5.5,4-24 hrs,Qualified Lead,No,,Aug-24,8
+LD-0393,Email Marketing,12/04/2024,12/04/2024,8.7,4-24 hrs,Deal Closed,Yes,1630,Apr-24,4
+LD-0394,Email Marketing,19/06/2024,19/06/2024,0.4,0-1 hr,Initial Contact,No,,Jun-24,6
+LD-0395,Website Form,07/09/2024,07/09/2024,3,1-4 hrs,Proposal Sent,No,,Sept-24,9
+LD-0396,Website Form,30/09/2024,30/09/2024,3.7,1-4 hrs,Deal Closed,Yes,2280,Sept-24,9
+LD-0397,Website Form,16/11/2024,16/11/2024,2,1-4 hrs,Initial Contact,No,,Nov-24,11
+LD-0398,Social Media,24/01/2024,24/01/2024,7.9,4-24 hrs,Initial Contact,No,,Jan-24,1
+LD-0399,Paid Ads,07/09/2024,07/09/2024,2.1,1-4 hrs,Initial Contact,No,,Sept-24,9
+LD-0400,Email Marketing,12/01/2024,12/01/2024,5.2,4-24 hrs,Initial Contact,No,,Jan-24,1
+LD-0401,Email Marketing,25/01/2024,25/01/2024,22.1,4-24 hrs,Initial Contact,No,,Jan-24,1
+LD-0402,Paid Ads,09/05/2024,09/05/2024,1.5,1-4 hrs,Initial Contact,No,,May-24,5
+LD-0403,Website Form,06/11/2024,06/11/2024,1.2,1-4 hrs,Qualified Lead,No,,Nov-24,11
+LD-0404,Email Marketing,07/11/2024,07/11/2024,4.7,4-24 hrs,Deal Closed,Yes,22840,Nov-24,11
+LD-0405,Social Media,11/09/2024,12/09/2024,26.5,24+ hrs,Sales Meeting,No,,Sept-24,9
+LD-0406,Website Form,09/09/2024,09/09/2024,0.3,0-1 hr,Deal Closed,Yes,4640,Sept-24,9
+LD-0407,Paid Ads,31/05/2024,31/05/2024,4.1,4-24 hrs,Initial Contact,No,,May-24,5
+LD-0408,Paid Ads,29/02/2024,29/02/2024,3.4,1-4 hrs,Deal Closed,Yes,7510,Feb-24,2
+LD-0409,Paid Ads,12/08/2024,12/08/2024,7.1,4-24 hrs,Initial Contact,No,,Aug-24,8
+LD-0410,Website Form,16/07/2024,16/07/2024,3.6,1-4 hrs,Qualified Lead,No,,Jul-24,7
+LD-0411,Social Media,22/03/2024,22/03/2024,1.7,1-4 hrs,Deal Closed,Yes,3510,Mar-24,3
+LD-0412,Referral,09/11/2024,09/11/2024,0.3,0-1 hr,Deal Closed,Yes,4700,Nov-24,11
+LD-0413,Website Form,29/07/2024,29/07/2024,3.1,1-4 hrs,Initial Contact,No,,Jul-24,7
+LD-0414,Paid Ads,24/04/2024,24/04/2024,7.9,4-24 hrs,Sales Meeting,No,,Apr-24,4
+LD-0415,Paid Ads,26/06/2024,26/06/2024,6.5,4-24 hrs,Sales Meeting,No,,Jun-24,6
+LD-0416,Paid Ads,15/09/2024,15/09/2024,11.4,4-24 hrs,Proposal Sent,No,,Sept-24,9
+LD-0417,Website Form,24/04/2024,24/04/2024,2.7,1-4 hrs,Qualified Lead,No,,Apr-24,4
+LD-0418,Website Form,10/06/2024,10/06/2024,3,1-4 hrs,Deal Closed,Yes,7130,Jun-24,6
+LD-0419,Referral,16/02/2024,16/02/2024,0.1,0-1 hr,Deal Closed,Yes,6360,Feb-24,2
+LD-0420,Website Form,28/01/2024,28/01/2024,3.4,1-4 hrs,Proposal Sent,No,,Jan-24,1
+LD-0421,Referral,19/02/2024,19/02/2024,0.1,0-1 hr,Initial Contact,No,,Feb-24,2
+LD-0422,Paid Ads,24/01/2024,24/01/2024,2.1,1-4 hrs,Qualified Lead,No,,Jan-24,1
+LD-0423,Referral,20/07/2024,20/07/2024,7.1,4-24 hrs,Deal Closed,Yes,5570,Jul-24,7
+LD-0424,Referral,10/12/2024,10/12/2024,1.3,1-4 hrs,Proposal Sent,No,,Dec-24,12
+LD-0425,Paid Ads,25/01/2024,25/01/2024,11.2,4-24 hrs,Qualified Lead,No,,Jan-24,1
+LD-0426,Social Media,06/03/2024,07/03/2024,31.8,24+ hrs,Sales Meeting,No,,Mar-24,3
+LD-0427,Website Form,07/05/2024,07/05/2024,3.6,1-4 hrs,Deal Closed,Yes,3790,May-24,5
+LD-0428,Website Form,19/09/2024,19/09/2024,4.8,4-24 hrs,Deal Closed,Yes,4080,Sept-24,9
+LD-0429,Social Media,15/11/2024,15/11/2024,23.2,4-24 hrs,Sales Meeting,No,,Nov-24,11
+LD-0430,Website Form,22/11/2024,22/11/2024,1.5,1-4 hrs,Initial Contact,No,,Nov-24,11
+LD-0431,Email Marketing,30/09/2024,30/09/2024,12.5,4-24 hrs,Proposal Sent,No,,Sept-24,9
+LD-0432,Social Media,23/03/2024,23/03/2024,17.7,4-24 hrs,Sales Meeting,No,,Mar-24,3
+LD-0433,Referral,19/08/2024,19/08/2024,1.9,1-4 hrs,Deal Closed,Yes,5160,Aug-24,8
+LD-0434,Referral,22/12/2024,22/12/2024,3.2,1-4 hrs,Deal Closed,Yes,9310,Dec-24,12
+LD-0435,Referral,09/10/2024,09/10/2024,0.9,0-1 hr,Deal Closed,Yes,3600,Oct-24,10
+LD-0436,Social Media,20/11/2024,20/11/2024,17.8,4-24 hrs,Sales Meeting,No,,Nov-24,11
+LD-0437,Paid Ads,31/03/2024,01/04/2024,24.8,24+ hrs,Initial Contact,No,,Mar-24,3
+LD-0438,Paid Ads,23/03/2024,23/03/2024,3.2,1-4 hrs,Initial Contact,No,,Mar-24,3
+LD-0439,Social Media,16/11/2024,17/11/2024,24.1,24+ hrs,Sales Meeting,No,,Nov-24,11
+LD-0440,Website Form,04/04/2024,04/04/2024,0.5,0-1 hr,Proposal Sent,No,,Apr-24,4
+LD-0441,Social Media,18/06/2024,18/06/2024,13.4,4-24 hrs,Initial Contact,No,,Jun-24,6
+LD-0442,Social Media,08/12/2024,08/12/2024,4.8,4-24 hrs,Initial Contact,No,,Dec-24,12
+LD-0443,Website Form,28/02/2024,28/02/2024,0.2,0-1 hr,Deal Closed,Yes,11450,Feb-24,2
+LD-0444,Referral,16/08/2024,16/08/2024,1.1,1-4 hrs,Initial Contact,No,,Aug-24,8
+LD-0445,Social Media,30/09/2024,30/09/2024,20.5,4-24 hrs,Deal Closed,Yes,8870,Sept-24,9
+LD-0446,Referral,02/10/2024,02/10/2024,1.8,1-4 hrs,Proposal Sent,No,,Oct-24,10
+LD-0447,Email Marketing,18/06/2024,18/06/2024,1.5,1-4 hrs,Deal Closed,Yes,4320,Jun-24,6
+LD-0448,Referral,27/07/2024,27/07/2024,0.5,0-1 hr,Deal Closed,Yes,,Jul-24,7
+LD-0449,Email Marketing,12/11/2024,12/11/2024,5.8,4-24 hrs,Deal Closed,Yes,6600,Nov-24,11
+LD-0450,Website Form,17/12/2024,17/12/2024,0.8,0-1 hr,Deal Closed,Yes,3380,Dec-24,12
+LD-0451,Paid Ads,30/09/2024,30/09/2024,2.6,1-4 hrs,Sales Meeting,No,,Sept-24,9
+LD-0452,Website Form,27/11/2024,27/11/2024,13.9,4-24 hrs,Deal Closed,Yes,,Nov-24,11
+LD-0453,Referral,13/02/2024,13/02/2024,5.3,4-24 hrs,Deal Closed,Yes,11530,Feb-24,2
+LD-0454,Paid Ads,23/03/2024,23/03/2024,1,0-1 hr,Sales Meeting,No,,Mar-24,3
+LD-0455,Paid Ads,08/10/2024,08/10/2024,1.5,1-4 hrs,Qualified Lead,No,,Oct-24,10
+LD-0456,Website Form,06/03/2024,06/03/2024,3.1,1-4 hrs,Initial Contact,No,,Mar-24,3
+LD-0457,Email Marketing,21/12/2024,21/12/2024,6.9,4-24 hrs,Sales Meeting,No,,Dec-24,12
+LD-0458,Website Form,24/11/2024,24/11/2024,8.4,4-24 hrs,Proposal Sent,No,,Nov-24,11
+LD-0459,Website Form,09/10/2024,09/10/2024,0.6,0-1 hr,Deal Closed,Yes,3490,Oct-24,10
+LD-0460,Referral,16/11/2024,16/11/2024,6.2,4-24 hrs,Deal Closed,Yes,5830,Nov-24,11
+LD-0461,Email Marketing,29/10/2024,29/10/2024,6.4,4-24 hrs,Deal Closed,Yes,6010,Oct-24,10
+LD-0462,Website Form,19/07/2024,19/07/2024,2.1,1-4 hrs,Deal Closed,Yes,2150,Jul-24,7
+LD-0463,Paid Ads,14/09/2024,14/09/2024,4.1,4-24 hrs,Deal Closed,Yes,3170,Sept-24,9
+LD-0464,Website Form,22/03/2024,22/03/2024,1,0-1 hr,Deal Closed,Yes,3600,Mar-24,3
+LD-0465,Paid Ads,22/04/2024,22/04/2024,4.1,4-24 hrs,Initial Contact,No,,Apr-24,4
+LD-0466,Social Media,20/08/2024,20/08/2024,16.2,4-24 hrs,Initial Contact,No,,Aug-24,8
+LD-0467,Paid Ads,23/10/2024,23/10/2024,2.6,1-4 hrs,Initial Contact,No,,Oct-24,10
+LD-0468,Email Marketing,24/04/2024,24/04/2024,6.7,4-24 hrs,Qualified Lead,No,,Apr-24,4
+LD-0469,Website Form,25/03/2024,25/03/2024,8.4,4-24 hrs,Deal Closed,Yes,5620,Mar-24,3
+LD-0470,Paid Ads,04/12/2024,04/12/2024,6.4,4-24 hrs,Proposal Sent,No,,Dec-24,12
+LD-0471,Paid Ads,12/01/2024,12/01/2024,12.1,4-24 hrs,Initial Contact,No,,Jan-24,1
+LD-0472,Paid Ads,02/04/2024,02/04/2024,10.9,4-24 hrs,Qualified Lead,No,,Apr-24,4
+LD-0473,Paid Ads,20/04/2024,20/04/2024,6.8,4-24 hrs,Deal Closed,Yes,11260,Apr-24,4
+LD-0474,Website Form,03/04/2024,03/04/2024,8.5,4-24 hrs,Qualified Lead,No,,Apr-24,4
+LD-0475,Paid Ads,08/03/2024,08/03/2024,0.2,0-1 hr,Deal Closed,Yes,7250,Mar-24,3
+LD-0476,Paid Ads,31/08/2024,31/08/2024,0.8,0-1 hr,Sales Meeting,No,,Aug-24,8
+LD-0477,Social Media,03/10/2024,04/10/2024,24.5,24+ hrs,Proposal Sent,No,,Oct-24,10
+LD-0478,Website Form,27/04/2024,27/04/2024,6.8,4-24 hrs,Qualified Lead,No,,Apr-24,4
+LD-0479,Paid Ads,05/08/2024,05/08/2024,4.2,4-24 hrs,Deal Closed,Yes,5510,Aug-24,8
+LD-0480,Email Marketing,06/04/2024,06/04/2024,2.4,1-4 hrs,Deal Closed,Yes,5050,Apr-24,4
+LD-0481,Email Marketing,10/06/2024,10/06/2024,6.2,4-24 hrs,Initial Contact,No,,Jun-24,6
+LD-0482,Paid Ads,14/12/2024,14/12/2024,0.7,0-1 hr,Initial Contact,No,,Dec-24,12
+LD-0483,Paid Ads,22/10/2024,22/10/2024,4.7,4-24 hrs,Sales Meeting,No,,Oct-24,10
+LD-0484,Referral,23/03/2024,23/03/2024,0.8,0-1 hr,Deal Closed,Yes,7080,Mar-24,3
+LD-0485,Website Form,18/07/2024,18/07/2024,11.1,4-24 hrs,Initial Contact,No,,Jul-24,7
+LD-0486,Paid Ads,10/02/2024,10/02/2024,0.4,0-1 hr,Sales Meeting,No,,Feb-24,2
+LD-0487,Social Media,30/03/2024,30/03/2024,22.2,4-24 hrs,Qualified Lead,No,,Mar-24,3
+LD-0488,Website Form,21/09/2024,21/09/2024,3.5,1-4 hrs,Sales Meeting,No,,Sept-24,9
+LD-0489,Social Media,23/07/2024,23/07/2024,17.5,4-24 hrs,Qualified Lead,No,,Jul-24,7
+LD-0490,Website Form,13/10/2024,13/10/2024,8.2,4-24 hrs,Qualified Lead,No,,Oct-24,10
+LD-0491,Referral,13/05/2024,13/05/2024,6.9,4-24 hrs,Deal Closed,Yes,5500,May-24,5
+LD-0492,Paid Ads,11/05/2024,11/05/2024,0.8,0-1 hr,Proposal Sent,No,,May-24,5
+LD-0493,Paid Ads,22/08/2024,22/08/2024,0.2,0-1 hr,Proposal Sent,No,,Aug-24,8
+LD-0494,Website Form,25/12/2024,25/12/2024,1.6,1-4 hrs,Deal Closed,Yes,,Dec-24,12
+LD-0495,Paid Ads,17/02/2024,17/02/2024,3.5,1-4 hrs,Sales Meeting,No,,Feb-24,2
+LD-0496,Website Form,03/04/2024,03/04/2024,23.4,4-24 hrs,Sales Meeting,No,,Apr-24,4
+LD-0497,Social Media,13/04/2024,13/04/2024,10.8,4-24 hrs,Proposal Sent,No,,Apr-24,4
+LD-0498,Website Form,04/01/2024,04/01/2024,6.3,4-24 hrs,Qualified Lead,No,,Jan-24,1
+LD-0499,Paid Ads,20/05/2024,20/05/2024,1.5,1-4 hrs,Deal Closed,Yes,4720,May-24,5
+LD-0500,Website Form,01/09/2024,01/09/2024,4.6,4-24 hrs,Initial Contact,No,,Sept-24,9
