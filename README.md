@@ -201,6 +201,8 @@ The dashboard contains 6 panels:
 
 Each Tableau chart connects to one of six MySQL views (`vw_source_performance`, `vw_monthly_trend`, `vw_pipeline_funnel`, `vw_pipeline_dropoff`, `vw_response_time`, `vw_full_data`) — keeping the analysis logic in SQL and the visualisation logic in Tableau.
 
+![Sales Pipeline Dashboard](dashboard/SalesPipelne%20Dashboard.png) 
+
 ---
 
 ## 7. Recommendations
@@ -243,8 +245,8 @@ sales-pipeline-analysis/
 │                                          8. BQ5 — Sales efficiency
 │                                          9. Views for Tableau connection
 │
-└── docs/
-    └── Tableau_Dashboard_Build_Guide.docx  ← Step-by-step Tableau guide
+└── dashboard/
+    └── dashboard image
 ```
 
 ---
